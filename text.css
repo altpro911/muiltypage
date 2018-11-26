@@ -69,7 +69,7 @@ nav ul li a.active{
 section.sec1{
     width: 100%;
     height: 100vh;
-    background-image: url(imeges/download.jpg);
+    background-image: url(imeges/charger.jpg);
     background-size: cover;
     background-position: center;
     
@@ -171,6 +171,7 @@ input, textarea {
 #Contact {
     text-align: center;
 }
+
 
 
 
